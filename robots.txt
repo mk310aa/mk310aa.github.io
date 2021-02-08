@@ -1,0 +1,2 @@
+User-agent: *
+Sitemap: https://mk310aa.github.io/sitemap.xml
